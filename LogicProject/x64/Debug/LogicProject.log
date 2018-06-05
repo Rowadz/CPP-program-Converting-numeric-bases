@@ -1,0 +1,14 @@
+﻿  LogicProject.cpp
+c:\users\lt\documents\visual studio 2017\projects\logicproject\logicproject\decimaltobinary.h(130): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\lt\documents\visual studio 2017\projects\logicproject\logicproject\decimaltobinary.h(200): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\lt\documents\visual studio 2017\projects\logicproject\logicproject\binarytoother.h(35): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\lt\documents\visual studio 2017\projects\logicproject\logicproject\binarytoother.h(47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lt\documents\visual studio 2017\projects\logicproject\logicproject\octaltoall.h(36): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\lt\documents\visual studio 2017\projects\logicproject\logicproject\octaltoall.h(47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lt\documents\visual studio 2017\projects\logicproject\logicproject\hexadecimaltoall.h(12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lt\documents\visual studio 2017\projects\logicproject\logicproject\hexadecimaltoall.h(113): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\lt\documents\visual studio 2017\projects\logicproject\logicproject\hexadecimaltoall.h(123): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\lt\documents\visual studio 2017\projects\logicproject\logicproject\logicproject.cpp(102): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\lt\documents\visual studio 2017\projects\logicproject\logicproject\logicproject.cpp(106): warning C4700: uninitialized local variable 'binary_police_counter' used
+  LogicProject.vcxproj -> C:\Users\LT\documents\visual studio 2017\Projects\LogicProject\x64\Debug\LogicProject.exe
+  LogicProject.vcxproj -> C:\Users\LT\documents\visual studio 2017\Projects\LogicProject\x64\Debug\LogicProject.pdb (Partial PDB)
